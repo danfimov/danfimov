@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitriy
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning how to use convolutional neural networks 
-- 💞️ I’m looking to collaborate on other people, who interesting in data science
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning how to use JS to make the world better
+- 💞️ I’m looking to collaborate on other people, who interesting in frontend
 - 📫 You can contact me by [email](mailto:lovesolaristics@gmail.com) or [Telegram](t.me/anfimov_work)
