@@ -15,7 +15,7 @@ I hope, some of my projects will be useful for you
 
 **🛠 My pet projects**
   
-* [My web tech course](https://github.com/LoveSolaristics/shower-presentation) – works on Shower presentation engine
+* [Web tech course](https://github.com/LoveSolaristics/shower-presentation) – works on Shower presentation engine
 * [Educational project about ML](https://github.com/LoveSolaristics/Easy-ML) - works on Streamlit Python library
 * [Calculators for solving systems of linear/nonlinear equations](https://github.com/LoveSolaristics/numerical-methods) - works on Django Python library
 * [Python Cheatsheet](https://github.com/LoveSolaristics/python-basics-cheatsheet)
