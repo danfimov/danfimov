@@ -26,4 +26,7 @@ I hope, some of my projects will be useful for you
 
 
 
-📫 You can contact me by: [Email](mailto:lovesolaristics@gmail.com) or [Telegram](https://t.me/anfimov_work) 
+### Connect with me:
+
+[<img align="left" alt="anfimov_work | Telegram" width="22px" style="background-color: blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/anfimov_work)
+[<img align="left" alt="lovesolaristics | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:lovesolaristics@gmail.com)
