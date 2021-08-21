@@ -19,6 +19,7 @@ I hope, some of my projects will be useful for you
 * [Educational project about ML](https://github.com/LoveSolaristics/Easy-ML) - works on Streamlit Python library
 * [Calculators for solving systems of linear/nonlinear equations](https://github.com/LoveSolaristics/numerical-methods) - works on Django Python library
 * [Python Cheatsheet](https://github.com/LoveSolaristics/python-basics-cheatsheet)
+* [Todolist on Flutter](https://github.com/LoveSolaristics/todolist-flutter.git)
 
   
   
