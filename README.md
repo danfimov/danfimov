@@ -24,7 +24,7 @@ I hope, some of my projects will be useful for you
 
 ### Some stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveSolaristics&show_icons=true&theme=default&locale=en)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alexdolbun&theme=tokyonight_duo&hide_border=true" alt="alexdolbun streak stats">
 
 ### Connect with me:
 
