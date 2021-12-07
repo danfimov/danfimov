@@ -19,7 +19,8 @@ I hope, some of my projects will be useful for you
 * [Educational project about ML](https://github.com/LoveSolaristics/Easy-ML) - works on Streamlit Python library
 * [Calculators for solving systems of linear/nonlinear equations](https://github.com/LoveSolaristics/numerical-methods) - works on Django Python library
 * [Python Cheatsheet](https://github.com/LoveSolaristics/python-basics-cheatsheet)
-
+* [REST-API for messenger](https://github.com/LoveSolaristics/messenger-api) - works on Aiohttp Python library
+  
 </td></tr></table>
 
 ### Some stats
