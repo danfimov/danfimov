@@ -25,7 +25,7 @@ I hope, some of my projects will be useful for you
 
 ### Some stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LoveSolaristics&theme=tokyonight_duo&hide_border=true" alt="LoveSolaristics streak stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=danfimov&theme=tokyonight_duo&hide_border=true" alt="LoveSolaristics streak stats">
 
 ### Connect with me:
 
