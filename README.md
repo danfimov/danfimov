@@ -22,10 +22,6 @@ I hope, some of my projects will be useful for you
   
 </td></tr></table>
 
-### Some stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=danfimov&theme=tokyonight_duo&hide_border=true" alt="LoveSolaristics streak stats">
-
 ### Connect with me:
 
 [<img align="left" alt="anfimov_work | Telegram" width="22px" style="background-color: blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/anfimov_work)
