@@ -7,7 +7,7 @@ I hope, some of my projects will be useful for you. I spent plenty of time on th
 
 **📦 Python packages**
 
-* [django-tinymce5-plus](https://github.com/danfimov/django-tinymce5-plus) - WYSIWYG plugin for Django
+* [django-tinymce4-plus](https://github.com/danfimov/django-tinymce4-plus) - WYSIWYG plugin for Django
 * [ya_tracker_client](https://github.com/danfimov/ya_tracker_client) - Wrapper for Yandex Tracker API
 
 **📚 Projects from various courses**
