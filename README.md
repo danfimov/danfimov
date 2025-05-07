@@ -17,9 +17,10 @@ I hope, some of my projects will be useful for you. I spent plenty of time on th
 </td><td valign="top" width="50%">
 
 **🛠 My pet projects**
-  
-* [Web tech course](https://github.com/danfimov/shower-presentation) – teach web tech with web based presentations;
-* [Educational project about ML](https://github.com/danfimov/Easy-ML) - interactive site about data science libs usage;
+
+* [setup-poetry](https://github.com/danfimov/setup-poetry) - custom Github action for Poetry setup;
+* [Web tech course](https://github.com/danfimov/shower-presentation) – learn web tech with web-based presentations;
+* [Educational project about ML](https://github.com/danfimov/Easy-ML) - interactive site about DS;
 * [Cinemabot](https://github.com/danfimov/cinemabot) - find film for an evening with Telegram bot.
   
 </td></tr></table>
