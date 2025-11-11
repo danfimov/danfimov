@@ -4,7 +4,7 @@ I'm Dima, a backend developer who mostly works with Python but likes to experime
 
 ## Currently  
 
-I work at Tochka Bank and contribute to open-source projects whenever I can. I enjoy  exploring ways to make developer experience smoother and faster.  
+I work at Tochka Bank and contribute to open-source projects whenever I can. I enjoy  exploring ways to make developer experience better.  
 
 ## My main projects  
 
