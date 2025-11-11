@@ -1,31 +1,25 @@
-### 👋 Hi
+# Hi there! 👋  
 
-I hope, some of my projects will be useful for you. I spent plenty of time on them: 
+I'm Dima, a backend developer who mostly works with Python but likes to experiment with other tools and tech from time to time.  
 
-[![wakatime](https://wakatime.com/badge/user/14c1cb59-a010-42dd-819e-f014f6d1fa29.svg)](https://wakatime.com/@14c1cb59-a010-42dd-819e-f014f6d1fa29)
+## Currently  
 
-<table><tr><td valign="top" width="50%">
+I work at Tochka Bank and contribute to open-source projects whenever I can. I enjoy  exploring ways to make developer experience smoother and faster.  
 
-**📦 Python packages**
+## My main projects  
 
-* [taskiq-postgres](https://github.com/danfimov/taskiq-postgres) - plugin for Taskiq that adds integration with Postgres;
-* [taskiq-ydb](https://github.com/danfimov/taskiq-ydb) - YDB integration for Taskiq;
-* [django-tinymce4-plus](https://github.com/danfimov/django-tinymce4-plus) - WYSIWYG plugin for Django;
-* [ya_tracker_client](https://github.com/danfimov/ya_tracker_client) - Wrapper for Yandex Tracker API.
+Here are a few libraries I built for Taskiq:  
 
-  
-</td><td valign="top" width="50%">
+* [taskiq-postgres](https://github.com/danfimov/taskiq-postgres) — PostgreSQL integration for Taskiq;  
+* [taskiq-ydb](https://github.com/danfimov/taskiq-ydb) — YDB integration for Taskiq;  
+* [taskiq-dashboard](https://github.com/danfimov/taskiq-dashboard) — a small admin panel for Taskiq, inspired by Celery Flower.  
 
-**🛠 My pet projects**
+Some of my older projects from my time at Yandex:  
 
-* [setup-poetry](https://github.com/danfimov/setup-poetry) - custom Github action for Poetry setup;
-* [Web tech course](https://github.com/danfimov/shower-presentation) – learn web tech with web-based presentations;
-* [Educational project about ML](https://github.com/danfimov/Easy-ML) - interactive site about DS;
-* [Cinemabot](https://github.com/danfimov/cinemabot) - find film for an evening with Telegram bot.
-  
-</td></tr></table>
+* [django-tinymce4-plus](https://github.com/danfimov/django-tinymce4-plus) — WYSIWYG editor integration for Django;  
+* [ya_tracker_client](https://github.com/danfimov/ya_tracker_client) — Python client for the Yandex Tracker API.  
 
-### Connect with me:
+## Get in touch  
 
-- Telegram: [@anfimov_work](t.me/anfimov_work);
-- Email: [lovesolaristics@gmail.com](mailto:lovesolaristics@gmail.com)
+* Telegram: [@anfimov_work](https://t.me/anfimov_work)  
+* Email: [lovesolaristics@gmail.com](mailto:lovesolaristics@gmail.com)
